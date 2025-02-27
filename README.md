@@ -1,0 +1,2 @@
+# Qwen2.5-Max-Digital-Medicine-Reminder-Using-Arduino
+This guide will walk you through building a digital medicine reminder using an Arduino. The system reminds users to take their medication at specified times by activating a buzzer, LED, and displaying messages on an LCD. This project is ideal for ensuring timely medication intake, especially for elderly individuals or those with busy schedules.
